@@ -1,21 +1,20 @@
 ## First_Quarter_Sales_Analysis
 
 ### **Table of Contents**
-1. Overview  
-2. Problem Statement  
-3. Skills Demonstrated  
-4. Data Source  
-5. Findings  
-6. Visualizations  
-7. Recommendations  
+1. [Overview](#overview)  
+2. [Problem Statement](#problem-statement)  
+3. [Skills Demonstrated](#skills-demonstrated)  
+4. [Data Source](#data-source)
+5. [Tool](#tool)
+6. [Findings](#findings)  
+7. [Visualization](#visualization)  
+8. [Recommendations](#recommendations)  
 
 ---
-
 ### **Overview**  
 This analysis presents the sales performance for the first quarter, summarizing total revenue, total quantity sold, average order value, and total orders. It also provides insights into monthly revenue trends, state-wise orders and revenue, and best-selling products by quantity and revenue.  
 
 ---
-
 ### **Problem Statement**  
 The objective is to identify key performance indicators (KPIs) that drive sales growth and to pinpoint areas for improvement to optimize sales strategies. Understanding the variation in revenue and sales trends across different states and products is critical for decision-making.   
 I will be using the provided dataset to answer the following business questions;
@@ -27,9 +26,7 @@ revenue?
 4. Which state did we get the most number of orders from? 
 5.  Which state is generating the highest number of revenue?
 
-
 ---
-
 ### **Skills Demonstrated** 
 - **Data Transformation:** Cleaning and Extracting information from different worksheet using Xlookup
 - **Data Analysis:** Extracting and interpreting key sales metrics using pivot table
@@ -37,7 +34,6 @@ revenue?
 - **Dashboard Creation:** Developing a functional and user-friendly sales dashboard.  
 
 ---
-
 ### **Data Source**  
 The data includes sales transactions for the first quarter, segmented by months, states, products, and revenue. It was source from [Sales_Data_Qtr_1](https://kaggle.com), a csv file with three worksheets containing detailed information.
 
@@ -48,12 +44,10 @@ The data includes sales transactions for the first quarter, segmented by months,
  - Products
 
 ---
-
 ### Tool
 - Excel [Download here](https://microsoft.com)
 
 ---
-
 ### **Findings**
 
 #### **1. Total Revenue:**  
@@ -82,22 +76,17 @@ The AOV represents the average revenue generated per order. This metric is criti
 - Customers are purchasing a mix of high- and mid-range products.  
 - Opportunities to increase AOV through upselling strategies, such as recommending accessories (e.g., headphones with laptops) or offering bundle deals.
 
-
 #### **7. Monthly Revenue Trends**  
 - **January:** $1,810,617.17 – The lowest performing month, likely reflecting slower post-holiday sales.  
 - **February:** $2,197,826.43 – A moderate improvement, possibly due to mid-quarter promotions.  
 - **March:** $2,802,910.61 – The best month, indicating a peak in sales activity.  
 The upward trend demonstrates consistent growth, but understanding the underlying causes for this trend (e.g., marketing efforts or seasonal demand) will help sustain momentum.
 
----
-
 #### **8. State Comparisons (Revenue & Orders)**  
 - **Top States by Orders:**  
   - San Francisco (8,838 orders) and Los Angeles (5,872 orders) lead in both orders and revenue, indicating strong market penetration and customer loyalty.  
 - **Underperforming States:**  
   - Austin (1,986 orders, $350,322.24 revenue) has the lowest performance. This might reflect smaller market size, insufficient marketing, or logistical challenges.  
-
----
 
 #### **9. Product Insights**  
 - **High-Revenue Products:**  
@@ -107,17 +96,15 @@ The upward trend demonstrates consistent growth, but understanding the underlyin
   - Products with low revenue or sales volume should be re-evaluated. Identifying reasons for underperformance (e.g., pricing, market demand) can guide corrective actions.
 
 ---
-
-### **Visualizations**  
+### **Visualization**  
 This project contains one report page that contains:
 - **Revenue Trends:** A line chart depicting monthly revenue growth.  
 - **State Comparisons:** Bar charts showing orders and revenue by state.  
 - **Product Insights:** Horizontal bar charts highlighting top products by quantity and revenue.
 
-![](images/Dashboard.png)
+![](image/Dashboard.png)
 
 ---
-
 ### **Recommendations**
 
 #### **1. Focus on High-Revenue States**
@@ -145,7 +132,7 @@ Certain products show low sales volume or revenue, which may drain resources or 
   - **Phase Out:** Consider discontinuing low-performing items and reallocating resources to better-selling products.
 
 #### **5. Enhance Customer Experience to Boost Average Order Value (AOV)**  
-- The **AOV of $186** indicates a healthy mix of mid- and high-range purchases. Increasing this value can amplify overall revenue.  
+The **AOV of $186** indicates a healthy mix of mid- and high-range purchases. Increasing this value can amplify overall revenue.  
   - **Personalized Recommendations:** Use data analytics to suggest complementary or upgraded products during checkout.  
   - **Bundle Deals:** Create curated product bundles at a slightly discounted price to encourage customers to purchase more.  
   - **Reward Programs:** Offer incentives, such as free shipping or loyalty points, for higher spending thresholds (e.g., orders above $200).

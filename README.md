@@ -1,5 +1,6 @@
-## First_Quarter_Sales_Analysis
+### First_Quarter_Sales_Analysis
 
+---
 ### **Table of Contents**
 1. [Overview](#overview)  
 2. [Problem Statement](#problem-statement)  

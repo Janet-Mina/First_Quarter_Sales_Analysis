@@ -54,7 +54,7 @@ The data includes sales transactions for the first quarter, segmented by months,
 #### **1. Total Revenue:**  
 A total revenue of **$6,811,354.21** was generated during the first quarter. It is a vital KPI that indicates the financial performance of the company during this period. The high revenue suggests strong sales performance across various products and regions. However, breaking down this revenue by state and product categories helps identify key contributors and areas for growth.
 
-#### **2. Top-Performing Month: March **  
+#### **2. Top-Performing Month:**  
  The Month of **March** recorded the highest revenue of **$2,802,910.61** among the three months, showcasing a significant growth trend compared to January and February. This surge could be attributed to:  
 - Seasonal factors such as promotional campaigns or holiday sales.  
 - Increased demand for certain products, particularly high-ticket items like laptops and monitors.  

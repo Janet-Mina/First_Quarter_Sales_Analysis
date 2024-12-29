@@ -1,4 +1,4 @@
-### First_Quarter_Sales_Analysis
+### First Quarter Sales Analysis
 
 ---
 ### **Table of Contents**

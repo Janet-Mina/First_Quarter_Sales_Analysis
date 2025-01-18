@@ -29,7 +29,7 @@ revenue?
 
 ---
 ### **Skills Demonstrated** 
-- **Data Transformation:** Cleaning and Extracting information from different worksheet using Xlookup
+- **Data Transformation:** Cleaning and Extracting information from 3 different worksheet using Xlookup
 - **Data Analysis:** Extracting and interpreting key sales metrics using pivot table
 - **Data Visualization:** Designing clear and interactive visuals to present trends and insights.  
 - **Dashboard Creation:** Developing a functional and user-friendly sales dashboard.  
